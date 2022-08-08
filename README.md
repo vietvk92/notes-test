@@ -194,9 +194,7 @@ struct UsersUseCase: UsersUseCaseType, GettingUsers {
 
 ```
 ## Demo
-<div align="center">
-    <img src="images/demo.gif" width=30% />
-</div>
+ <img src="images/demo.gif" width=30% />
 
 ## Check list
 1. As a user (of the application) I can set my username ✔
